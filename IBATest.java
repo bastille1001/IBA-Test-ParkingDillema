@@ -51,7 +51,7 @@ public class IBATest {
         long r = carParkingRoof(cars, 3);
         System.out.println(r);
 		
-		int[][] A = {{5,4,4}, {4,3,4}, {3,2,4}, {2,2,2}, {3,3,4}, {1,4,4}, {4,1,1}};
-		System.out.println(solution(A));
+	int[][] A = {{5,4,4}, {4,3,4}, {3,2,4}, {2,2,2}, {3,3,4}, {1,4,4}, {4,1,1}};
+	System.out.println(solution(A));
     }
 }
